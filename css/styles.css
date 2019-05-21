@@ -1,0 +1,89 @@
+/* defualts */
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgrey;
+    width: 100%;
+    min-width: 790px;
+}
+
+/* header */
+.pure-menu-horizontal{
+    background-color: #2371F5;
+    color: white;
+}
+.pure-menu-heading{
+    color: white;
+}
+.pure-menu-link{
+    color: white;
+}
+
+/* body */
+body{
+    max-width: 1500px;
+    min-width: 790px;
+    margin: 60px auto 0px auto;
+    color: black;
+}
+#body-login{
+    background-color: white;
+    padding: 20px 30px 20px 30px;
+    margin-bottom: 20px;
+}
+#body-add{
+    background-color: white;
+    padding: 20px 30px 20px 30px;
+    margin-bottom: 20px;
+}
+#body-scoreboard{
+    background-color: white;
+    padding: 20px 30px 20px 30px;
+    margin-bottom: 20px;
+}
+#body-oldcomp{
+    background-color: white;
+    padding: 20px 30px 20px 30px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1.center{
+    text-align: center;
+}
+.section-title{
+    margin-bottom: 20px;
+}
+.greybox{
+    border: 1px solid grey;
+}
+.full{
+    width: 100%;
+}
+
+.table {
+   text-align: center;
+   background-color: lightgrey;
+   border-color: grey;
+}
+
+.old-comp-display-box{
+    margin: 10px auto 10px auto;
+    height: 250px;
+
+    background-color: #1594DE;
+}
+
+#add-button{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#athlete-form{
+    margin-left: 50px;
+}
